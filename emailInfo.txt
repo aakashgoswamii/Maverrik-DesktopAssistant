@@ -1,0 +1,3 @@
+dicti = {
+    "aakash": "goswami.aakash2244@gmailcom"
+}
